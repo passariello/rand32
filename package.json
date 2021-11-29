@@ -1,7 +1,6 @@
 {
   "name": "rand32",
-  "alias": "rand32bit",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Random 32bit number generator",
   "main": "rand32.js",
   "scripts": {
