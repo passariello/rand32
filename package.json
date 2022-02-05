@@ -4,7 +4,7 @@
   "description": "Random 32bit number generator",
   "main": "rand32.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "updateAll": "npm version patch --force -m \"New patch commit\" && git push && git push --tags && npm publish"
   },
   "repository": {
     "type": "git",
